@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "2026-10-30T14:00:00",
+    "campaign_name": "Saudi National Day Scale",
+    "hourly_spend": 680.0,
+    "hourly_cpa": 125.0
+  },
+  {
+    "timestamp": "2026-10-30T14:00:00",
+    "campaign_name": "Egypt Retargeting Catalog",
+    "hourly_spend": 85.0,
+    "hourly_cpa": 45.0
+  }
+]

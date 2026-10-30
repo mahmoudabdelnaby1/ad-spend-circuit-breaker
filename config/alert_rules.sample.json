@@ -1,0 +1,5 @@
+{
+  "max_hourly_spend_sar": 350.0,
+  "max_allowable_cpa_sar": 90.0,
+  "auto_pause_webhook": "https://api.telegram.org/botTOKEN/sendMessage"
+}
